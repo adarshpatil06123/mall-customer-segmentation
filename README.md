@@ -75,7 +75,7 @@ pip package manager
 
 1. **Clone the repository**
 ```bash
-git clone https://github.com/your-username/mall-customer-segmentation.git
+git clone https://github.com/adarshpatil06123/mall-customer-segmentation.git
 cd mall-customer-segmentation
 ```
 
@@ -168,9 +168,9 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 👨‍💻 Author
 
-**Your Name**
-- GitHub: [@your-username](https://github.com/your-username)
-- LinkedIn: [Your LinkedIn](https://linkedin.com/in/your-profile)
+**Adarsh Patil**
+- GitHub: [@adarshpatil06123](https://github.com/adarshpatil06123)
+- Email: patiladarsh968@gmail.com
 
 ## 🙏 Acknowledgments
 
@@ -181,3 +181,4 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ---
 
 ⭐ **If you found this project helpful, please give it a star!** ⭐
+
